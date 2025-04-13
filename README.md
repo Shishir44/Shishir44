@@ -1,65 +1,67 @@
 # 👋 Hey there, I'm Shishir!
 
-🎓 Final Year BSc. Computer Science Student  
-🤖 AI/ML & NLP Enthusiast | 💻 Full-Stack Developer  
-🌍 Building solutions that bridge innovation with real-world impact
+🎓 Final Year Computer Science Student | 🤖 AI/ML & NLP Enthusiast | 💻 Full-Stack Developer  
+🇳🇵 Based in Nepal | 🚀 Building intelligent systems that make an impact
 
 ---
 
 ## 🧠 About Me
 
-I'm a passionate Computer Science student with a strong foundation in Artificial Intelligence, Machine Learning, and Natural Language Processing. I love experimenting with cutting-edge technologies like LLMs, and I'm particularly interested in creating intelligent applications that solve practical problems.
+I'm a curious and passionate tech enthusiast focused on solving real-world problems using Artificial Intelligence, Machine Learning, and Full-Stack Web Development. My projects often combine data science, natural language processing, and intelligent interfaces to create useful, user-centric applications.
 
-Alongside AI, I enjoy crafting full-stack applications using React, Next.js, Node.js, and MongoDB. I'm always exploring new tools and frameworks to expand my knowledge and build better solutions.
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:**  
-Python, JavaScript, SQL, Bash
-
-**AI/ML & Data Tools:**  
-TensorFlow, PyTorch, Hugging Face Transformers, Scikit-learn, Pandas, Jupyter Notebooks
-
-**Web Development:**  
-React, Next.js, Node.js, Express.js, HTML/CSS, MongoDB, Streamlit
-
-**Others:**  
-Git & GitHub, Docker, Postman, Netlify, Vercel
+From designing a Romanised Nepali LLM-powered chatbot to visualizing global data trends and building full-stack dashboards, I enjoy working across the AI and web ecosystem to bring ideas to life.
 
 ---
 
-## 🔍 Highlighted Projects
+## 💡 Featured Projects
 
-- **AI Assignment**  
-  📌 A collection of hands-on machine learning & AI mini-projects using Python.
+### 🔍 Romanised Nepali AI Chatbot  
+A multilingual chatbot powered by **Gemini LLM** and **LlamaIndex** that understands Romanised Nepali and answers questions with context-based summaries.  
+Built for inclusive, native-language interaction.
 
-- **EM Algorithm Implementation**  
-  🔍 A detailed Python implementation of the Expectation-Maximization algorithm from scratch.
-
-- **Covid-19 Data Visualization**  
-  📊 An interactive dashboard to visualize COVID-19 trends and statistics.
-
-- **Game Sales EDA**  
-  📈 Performed exploratory data analysis on game sales data using Python and Jupyter.
+> Tech: LlamaIndex, Gemini LLM, Streamlit, Custom Summarization
 
 ---
 
-## 📈 GitHub Stats
+### 🏥 AI-Powered Telehealth Platform *(in progress)*  
+A smart consultation system for remote healthcare. Accepts user data, predicts symptoms, and provides initial recommendations. Focused on improving rural access to medical support.
 
-![Shishir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shishir44&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shishir44&layout=compact&theme=tokyonight)
+> Tech: Streamlit, LLMs, Python, Medical NLP
+
+---
+
+### 📊 Game Sales EDA  
+An exploratory data analysis project that visualizes game sales performance across platforms and genres using Python.
+
+> Tech: Pandas, Matplotlib, Seaborn, Jupyter
+
+---
+
+## 🧰 Tech Toolbox
+
+- **Languages:** Python, JavaScript, SQL  
+- **Frontend:** React.js, Next.js, Tailwind CSS  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB, MySQL  
+- **AI/ML:** Hugging Face Transformers, LlamaIndex, TensorFlow, Scikit-learn  
+- **Data Tools:** Pandas, NumPy, Excel, Streamlit  
+- **Others:** Git, Docker, Postman, Netlify, Vercel
+
+---
+
+## 📊 GitHub Stats
+
+![Shishir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shishir44&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shishir44&layout=compact&theme=radical)
 
 ---
 
 ## 📬 Let's Connect
 
-- 🌐 [Portfolio Website](shishirkafle.com.np)
-- 💼 [LinkedIn](https://www.linkedin.com/in/shishir-kafle
+- 🌐 Portfolio: shishirkafle.com.np 
+- 💼 [LinkedIn](https://www.linkedin.com/in/shishir-kafle)  
 - 📧 Email: shishirkafle44@gmail.com
 
 ---
 
-> “I believe in building tech that feels human – intuitive, intelligent, and impactful.”
-
+> “Building AI systems that understand people and adapt to their needs.”
